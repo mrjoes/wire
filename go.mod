@@ -15,5 +15,5 @@ require (
 	golang.org/x/oauth2 v0.0.0-20201208152858-08078c50e5b5
 	golang.org/x/sys v0.0.0-20210105210732-16f7687f5001 // indirect
 	golang.org/x/text v0.3.4
-	gotest.tools v2.2.0+incompatible
+	gotest.tools v2.3.0+incompatible
 )
